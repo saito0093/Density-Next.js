@@ -72,10 +72,10 @@ The project is evaluated based on the following criteria:
 
 If you have any questions or need further information, please feel free to contact me:
 
-- Email: prashantkumarsingh.work@gmail.com
-- LinkedIn: https://www.linkedin.com/in/devprashantt/
+- Email: andersn0093@gmail.com
+- Telegram: https://t.me/andersn0093
 
 Thank you for considering my application. I look forward to your feedback and evaluation.
 
 Best regards,
-Prashant Kumar Singh
+Yuya Sano
