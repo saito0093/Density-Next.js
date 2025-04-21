@@ -37,7 +37,7 @@ The project is organized as follows:
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/devprashantt/density-exchange
+   git clone https://github.com/andersn0002/Next-Density-.git
    ```
 
 2. Install the project dependencies.
