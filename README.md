@@ -37,7 +37,7 @@ The project is organized as follows:
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/andersn0002/Next-Density-.git
+   git clone https://github.com/yuyasano0096/Density-Next.js.git
    ```
 
 2. Install the project dependencies.
